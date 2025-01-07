@@ -12,7 +12,7 @@
   - Check out <a href="https://merliariza.github.io/portafolio-merliariza/">My Portfolio💼</a></br>
 </div>
 
-<h3 align="center"> Technologies That I Know 👩🏻‍💻</h1>
+<h3 align="center"> Technologies That I Know 👩🏻‍💻</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
