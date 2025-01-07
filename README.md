@@ -2,7 +2,7 @@
 <span align="center">
 
 <h3 align="center"> About me </h1>
-<div>
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5896AA&size=27&center=false&lines=I+am+Merli+Ariza...;I+am+17+years+...;Eager+to+learn,+grow,+and+create...."/><br>
   A student in Technology Analysis and Software Development at SENA, passionate about creating efficient tech solutions and gaining hands-on experience through projects at Campuslands. <img height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" align="right" />
 
