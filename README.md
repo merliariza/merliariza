@@ -11,7 +11,7 @@
   - 📫 Feel free to connect with me at: <a href="mailto:merliarizaherrera@gmail.com">merliarizaherrera@gmail.com</a>
   - Check out <a href="https://merliariza.github.io/portafolio-merliariza/">My Portfolio💼</a></br>
 </div>
-
+<br>
 <h3 align="center"> Technologies That I Know 👩🏻‍💻</h3>
 
 <p align="center">
