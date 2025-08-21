@@ -4,7 +4,7 @@
 <h3 align="center"> About me </h3>
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5896AA&size=27&center=false&lines=I+am+Merli+Ariza...;I+am+18+years+old...;Eager+to+learn,+grow,+and+create...."/><br>
-I'm a **Junior Software Developer** with hands-on experience in building **fullstack web applications** using **C#, .NET Core, Angular, JavaScript**, and databases like **PostgreSQL and MySQL**. <img height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" align="right" />
+I'm a <strong>Junior Software Developer</strong> with hands-on experience in building <strong>fullstack web applications</strong> using <strong>C#, .NET Core, Angular, JavaScript</strong>, and databases like <strong>PostgreSQL and MySQL</strong>.<br> <img height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" align="right" />
 
   - 🎓 Technical degree in **Software Programming**.
   - 🌱 Currently studying **Software Analysis and Development Technology**.
@@ -19,7 +19,7 @@ I'm a **Junior Software Developer** with hands-on experience in building **fulls
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=html,css,js,py,git,github,linux,vscode,mysql,postgresql,nodejs](https://skillicons.dev/icons?i=html,css,js,angular,tailwind,bootstrap,python,nodejs,dotnet,mysql,postgresql,git,github,vscode,linux,postman,figma)" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,tailwind,bootstrap,python,nodejs,dotnet,mysql,postgresql,git,github,vscode,linux,postman,figma" />
   </a>
 </p>
 
@@ -39,3 +39,4 @@ I'm a **Junior Software Developer** with hands-on experience in building **fulls
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merliariza&layout=compact&hide_border=true&title_color=5896AA&text_color=5896AA" />
 
 </div>
+
