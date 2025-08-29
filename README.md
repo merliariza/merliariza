@@ -3,7 +3,7 @@
 
 <h3 align="center"> About me </h3>
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5896AA&size=27&center=false&lines=I+am+Merli+Ariza...;I+am+18+years+old...;Eager+to+learn,+grow,+and+create...."/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5896AA&size=27&center=false&lines=I+am+Merli+Ariza...;Learning+constantly...;Curiosity+and+creative..."/><br>
 I'm a <strong>Junior Software Developer</strong> with hands-on experience in building <strong>fullstack web applications</strong> using <strong>C#, .NET Core, Angular, JavaScript</strong>, and databases like <strong>PostgreSQL and MySQL</strong>.<br> <img height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" align="right" />
 
   - 🎓 Technical degree in **Software Programming**.
@@ -32,11 +32,9 @@ I'm a <strong>Junior Software Developer</strong> with hands-on experience in bui
 <br>
 <h3 align="center">Github stats 📊</h3>
 <div align="center">  
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merliariza&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
   <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=merliariza&show_icons=true&count_private=true&hide_border=true&title_color=5896AA&icon_color=5896AA&text_color=5896AA" alt="merliariza github stats" /> 
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merliariza&layout=compact&hide_border=true&title_color=5896AA&text_color=5896AA" />
 
 </div>
+
 
